@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
 
-public class ComputeUAVTexFlow : MonoBehaviour 
+public class SandSimulation : MonoBehaviour 
 {
 	// Variables públicas
 	public ComputeShader computeShader;
