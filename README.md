@@ -12,3 +12,4 @@ Se han implementado 2 kernels para simular el comportamiento de la arena y extra
 
 ### Preview
 
+https://github.com/pablomorillas02/sand-simulation/assets/114686516/1ab7f81c-a43b-47db-bca3-a4689b0e00c2
